@@ -97,7 +97,7 @@
   }
 
   .nav-item {
-    transform: translate3d(-60px, 0, 0); //**** 600px no funciona
+    transform: translate3d(50%, 0, 0); //**** 600px no funciona
     @include easeOut;
 
     &.show {
