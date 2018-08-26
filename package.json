@@ -9,6 +9,7 @@
   "author": "Victor Chang",
   "license": "MIT",
   "dependencies": {
+    "jshint": "^2.9.6",
     "node-sass": "^4.9.2"
   }
 }
